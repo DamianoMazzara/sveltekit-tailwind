@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Place here global css code you want to apply to all elements */
+
+/* Example */
+h1 {
+	font-size: 50px;
+}
